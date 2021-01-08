@@ -1,6 +1,6 @@
 .home-container {
-  padding-top: 100px;
-  height: calc(100vh - 254px);
+  padding-top: 70px;
+  height: calc(100vh - 254px);  
 }
 
 .home-container h1 {
@@ -9,7 +9,7 @@
 
 .home-content {
   display: flex;
-  justify-content: center;
+  justify-content: center;  
 }
 
 .home-title {
@@ -51,7 +51,7 @@
 }
 
 .home-image svg {
-  width: 100%;
+  width: 80%;
 }
 
 @media only screen and (max-width: 768px) {

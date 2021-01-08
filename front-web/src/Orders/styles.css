@@ -52,7 +52,7 @@
 
 .orders-list-container {
   display: flex;
-  justify-content: center;
+  justify-content: center;  
 }
 
 .orders-list-items {
